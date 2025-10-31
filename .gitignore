@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+venv/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+
+# Uncomment to exclude large model artifacts
+# *.h5
+# *.pb
+# checkpoints/
