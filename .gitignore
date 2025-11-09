@@ -9,6 +9,7 @@ venv/
 # OS/editor
 .DS_Store
 Thumbs.db
+shuffled_file.csv
 
 # Model and heavy artifacts
 *.h5
